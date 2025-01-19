@@ -1,15 +1,13 @@
-👋 Hello World! I'm Pawandeep Singh, a passionate computer science undergraduate on the brink of graduation, eagerly stepping into the realm of software engineering. 
-Take a look at my portfolio page on [notion](https://pss-coder.notion.site/Pawandeep-s-Portfolio-8991ffbb60254a519feb2eb6cc11f0d7).
-Here's a glimpse into my tech world:
+<h1 align="center">Hi 👋, I'm Pawandeep</h1>
+<h3 align="center">Software Engineer from Singapore</h3>
 
-🎓 Graduating Computer Science Undergrad: Armed with a solid foundation in computer science principles, I'm ready to tackle real-world challenges head-on.
+- 🔭 I’m currently working at a Diagnostics Development company, where I'm working mostly on building **Medtech Software.**
 
-💻 Software Engineering Enthusiast: I'm deeply passionate about crafting robust and efficient software solutions that make a meaningful impact. Whether it's building scalable web applications, crafting intuitive user interfaces, or diving into the intricacies of backend systems, I'm always up for the challenge.
+- 🌱 I’m currently learning **Docker and Containerisation**
 
-📱 iOS Development Aficionado: With a knack for iOS development, I'm well-versed in Swift, SwiftUI, and Ionic. Whether it's crafting sleek and intuitive user interfaces or diving into the intricacies of iOS app architecture, I'm passionate about creating delightful mobile experiences.
+- 💬 Ask me about **swift, nextjs, chrome extension, pdf generation**
 
-🌐 Web Development Wizardry: Proficient in modern web development technologies including React and Next.js, I specialize in creating dynamic and responsive web applications that delight users. From frontend magic to backend mastery with Firebase, MySQL, PostgreSQL, and deployment on Vercel, I bring your web projects to life seamlessly.
+- 📫 How to reach me **pawandeepse@me.com**
 
-🚀 Let's Build Something Amazing: Whether you're looking to revamp your web presence, dive into iOS app development, or explore the vast world of software engineering, I'm here to collaborate and innovate. Let's connect and build something amazing together!
-
-📫 Reach Out: Feel free to connect with me here on GitHub or reach out via [email](mailto:pawandeepse@me.com). I'm always open to new opportunities, collaborations, and discussions about all things tech.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
