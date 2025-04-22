@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at a Diagnostics Development company, where I'm working mostly on building **Medtech Software.**
 
-- 🌱 I’m currently learning **Docker and Containerisation**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **swift, nextjs, chrome extension, pdf generation**
 
