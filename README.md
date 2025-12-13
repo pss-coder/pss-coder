@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawandeep</h1>
 <h3 align="center">Software Engineer from Singapore</h3>
 
-- 🔭 I’m currently working at a Diagnostics Development company, where I'm working mostly **Medtech Software.**
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **flutter, swift, nextjs, chrome extension, pdf generation**
-
 - 📫 How to reach me **pawandeepse@me.com**
 
 <h3 align="left">Connect with me:</h3>
